@@ -428,19 +428,6 @@ Approved  Deferred  Rejected
 - หากมีการเปลี่ยนแปลงขอบเขตหรืองบประมาณ ต้องยื่น Change Request ใหม่
 - การติดตามผลจะรายงานใน Project Status Meeting
 
-**การปฏิบัติตามมาตรฐาน ISO/IEC 29110:**
-- ✅ เอกสารนี้สอดคล้องกับ ISO/IEC 29110-4-1:2018 (Basic Profile)
-- ✅ ครบถ้วนตามกระบวนการ Project Management (PM)
-- ✅ มี Configuration Management ตามข้อกำหนด
-- ✅ มี Traceability Matrix เชื่อมโยง Requirements
-- ✅ มี Verification and Validation Plan
-- ✅ มี Change Control Process ที่ชัดเจน
-
-**อ้างอิงมาตรฐาน:**
-- ISO/IEC 29110-4-1:2018 - Software Engineering Profile Specifications: Generic profile group: Basic profile
-- ISO/IEC/IEEE 12207:2017 - Systems and software engineering — Software life cycle processes
-- ISO/IEC/IEEE 15289:2019 - Systems and software engineering — Content of life-cycle information items (documentation)
-
 ---
 
 **ผู้จัดทำเอกสาร:**
